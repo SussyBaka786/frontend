@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [22.x] # Include versions relevant to your project
+        node-version: [18.x] # Include versions relevant to your project
 
     steps:
     # Step 1: Checkout code
